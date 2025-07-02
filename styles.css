@@ -1,0 +1,9 @@
+.listitem {
+  list-style-type: square;
+}
+
+.page-footer {
+  padding: 10px;
+  background: black;
+  color: white;
+}
